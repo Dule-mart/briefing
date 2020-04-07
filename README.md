@@ -30,13 +30,39 @@
 
 5. #### Go to ```git clone https://github.com/Data-Structures-Algorithms-DSA/briefing``` and make Pull Request (PR)
 
-6. #### Assign either ```AudrickOng``` OR ```dudeparsh``` as the ```asignees```.
+6. #### Assign either ```RickyDoesCode``` OR ```dudesparsh``` as the ```asignees```.
 
 7. #### You're done! Wait for us to leave feedback on your pull request and feel free to proceed to the next task!
 
 8. #### Warning! Do Not Merge!
 
 ## If you have any difficulty, you can contact us on the WhatsApp Group or DM!
+
+## Tasks Agenda
+
+1. ### Array Of Multiples - Easy([link](https://github.com/Data-Structures-Algorithms-DSA/array-of-multiples))
+
+2. ### Number In String - Easy/Intermediate([link](https://github.com/Data-Structures-Algorithms-DSA/number-in-string))
+
+3. ### Group In Order - Intermediate([link](https://github.com/Data-Structures-Algorithms-DSA/group-in-order))
+---
+4. ### Odd One Out - Very Easy([link](https://github.com/Data-Structures-Algorithms-DSA/odd-one-out))
+
+5. ### String Letter Count - Easy([link](https://github.com/Data-Structures-Algorithms-DSA/str-letter-count))
+
+6. ### Depth Of Array - Easy/Intermediate([link](https://github.com/Data-Structures-Algorithms-DSA/depth-of-array))
+
+7. ### Roman Numerals - Intermediate([link](https://github.com/Data-Structures-Algorithms-DSA/roman-numerals))
+---
+8. ### Find Frequent - Easy([link](https://github.com/Data-Structures-Algorithms-DSA/find-frequent))
+
+9. ### Find Mode - Easy/Intermediate([link](https://github.com/Data-Structures-Algorithms-DSA/find-mode))
+
+10. ### Triangle Fit - Intermediate([link](https://github.com/Data-Structures-Algorithms-DSA/triangle-fit))
+
+11. ### Maximum Sum - Intermediate/Advanced([link](https://github.com/Data-Structures-Algorithms-DSA/max-sum))
+
+12. ### Advanced Sort - Advanced ([link](https://github.com/Data-Structures-Algorithms-DSA/advanced-sort))
 
 # Good Luck!
 
